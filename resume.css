@@ -1,0 +1,33 @@
+
+.name{
+	 font-family: "lucida console";
+	 color: #00BFFF	;
+	 text-align : center;
+	 padding-top: 50px ;
+	}
+
+.liste{
+
+	font-size: 15px;
+}
+
+.title{
+	font-style: italic;
+}
+
+.img-circle {
+	padding-top: 10px;
+}
+
+hr{
+	height: 15px;
+	color: #00BFFF	;
+	background-color: #00BFFF	;
+	border: none;
+	border-bottom: 2px solid #00BFFF	;
+}
+
+h3{
+	color: #00BFFF	 !important;
+}
+
